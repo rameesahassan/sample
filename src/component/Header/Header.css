@@ -1,0 +1,14 @@
+header{
+    background-color: cornflowerblue;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+header a{
+    color: aqua;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
